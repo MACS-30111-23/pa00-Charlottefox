@@ -5,9 +5,9 @@
 My name is **Xinge Li**, you can call me Charlotte. I am enrolled in the MACSS program, where I am studying computational social sciences with a strong interest in inequality, bureaucratic system and tax reform.
 
 Outside of academics, I enjoy rock climbing, hiking, movies, video games, and spending time with cats and dogs (even though I don't have pets yet, but I love them!).
-* ![cats1](c:\Users\AW\Pictures\Saved Pictures\微信图片_20240616000611.jpg)
-* ![cats2](c:\Users\AW\Pictures\Saved Pictures\微信图片_20240616000608.jpg)
-* ![cats3](c:\Users\AW\Pictures\Saved Pictures\微信图片_20240616000615.jpg)
+* ![cats1](20240616000615.jpg)
+* ![cats2](20240616000608.jpg)
+* ![cats3](20240616000611.jpg)
 
 -  I learned how to embed images into a README file using Markdown syntax. 
 
